@@ -4,6 +4,8 @@ Sounds confusing? Well, NuGet was originally designed for packaging up open-sour
 
 
 ## Documentation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faddiered%2FFossatest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Faddiered%2FFossatest?ref=badge_shield)
+
 Refer to our [Octopus Deploy documentation page](https://octopus.com/docs/packaging-applications/nuget-packages/using-octopack)
 
 ## Support
@@ -19,3 +21,7 @@ OctoPack is in maintenance and new features are not being actively added to it.
 If you are planing on sending a pull request, please see our [Contribution](CONTRIBUTING.md) guide.
 
 If you have an idea or a feature request, and it is directly related to this product in this repository, clear out this text and create an issue. Otherwise, please post it to [our UserVoice site](http://octopusdeploy.uservoice.com) so others can vote for it.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faddiered%2FFossatest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Faddiered%2FFossatest?ref=badge_large)
